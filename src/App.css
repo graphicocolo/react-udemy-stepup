@@ -1,0 +1,30 @@
+.container {
+  width: 90%;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+.clm {
+  margin: 2rem 1rem;
+  padding: 1rem;
+  max-width: 1200px;
+}
+
+.item-rendering {
+  background-color: bisque;
+}
+
+.list-rooting {
+  max-width: 768px;
+  list-style-type: none;
+  margin: auto;
+  text-align: left;
+}
+.list-rooting li a {
+  color: #128a05;
+}
+.list-rooting li a.active {
+  text-decoration: none;
+  font-weight: bold;
+}
